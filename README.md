@@ -19,6 +19,9 @@ Gostou da ideia?
 ### Abaixo estarão os meus projetos, com o que aprendi naquele dia e como ficou o resultado
 #### Espero que goste, e fica aí o desafio para vocês também!!!
 
-## DIA 01
+## DIA 01 - Icones de midias sociais em camadas
 ![Icone de midias sociais em camadas - Opera 2023-01-01 23-39-08](https://user-images.githubusercontent.com/88565656/214467483-ecb672ef-0758-4b0a-992e-e1cb56a8be2c.gif)
+
+## DIA 02 - Tela de carregamento
+![tela-de-carragamento-Opera-2023-01-24-23-35-37](https://user-images.githubusercontent.com/88565656/214468239-b213a613-ebae-47a8-a75d-f4066477ab2e.gif)
 

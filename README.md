@@ -30,7 +30,7 @@ Gostou da ideia?
 
 ## DIA 04 - Formulário de login
 ![Document - Opera 2023-01-05 20-41-28](https://user-images.githubusercontent.com/88565656/215636370-6d6d2e08-cb93-40f8-85ad-602926ead5ab.gif)
-s
+
 
 ## DIA 05 - Icones com efeito e animação
 ![icones - Opera 2023-01-06 21-40-25](https://user-images.githubusercontent.com/88565656/215636686-88cbedad-caba-445e-be7e-c5167c4d197e.gif)

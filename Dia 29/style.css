@@ -1,0 +1,103 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+    padding: 0;
+}
+body{
+    background: rgb(0, 0, 0);
+}
+.skills{
+    width: 500px;
+    margin: 60px auto;
+    color: rgb(131, 219, 90);
+}
+.skills li{
+    margin: 20px 0;
+}
+.bar{
+    background: #000000;
+    display: block;
+    height: 4px;
+    border:1px solid rgba(0, 0, 0, 0.959) ;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #fff5f5b0;
+}
+.bar span{
+    height: 2px;
+    float: left;
+    background: #089c28b0;
+}
+
+.html{
+    width: 88%;
+    animation: html 2s;
+}
+
+@keyframes html{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 88%;
+    }
+}
+
+.css{
+    width: 65%;
+    animation: css 2s;
+}
+@keyframes css{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 65%;
+    }
+}
+
+.javascript{
+    width: 40%;
+    animation: javascript 2s;
+}
+@keyframes javascript{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 40%;
+    }
+}
+
+.python{
+    width: 75%;
+    animation: python 2s;
+}
+@keyframes python{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 75%;
+    }
+
+    
+}
+
+.java{
+    width: 30%;
+    animation: java 2s;
+}
+@keyframes java{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 30%;
+    }
+
+    
+}
+
+
+
